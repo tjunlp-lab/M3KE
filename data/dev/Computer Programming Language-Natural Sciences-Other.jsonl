@@ -1,0 +1,5 @@
+{"id": 0, "question": "以下属于Python机器学习领域第三方库的是？", "A": "Scikit-learn", "B": "numpy", "C": "pygame", "D": "pandas", "answer": "A"}
+{"id": 1, "question": "在Python语言中，读入CSV文件保存的二维数据，按特定分隔符抽取信息，最可能用到的函数是？", "A": "split()", "B": "replace()", "C": "join()", "D": "format()", "answer": "A"}
+{"id": 2, "question": "下列选项中，用于创建目录的是？", "A": "os.rename()", "B": "os.remove()", "C": "os.mkdir()", "D": "os.listdir()", "answer": "C"}
+{"id": 3, "question": "在Python中，函数？", "A": "不可以嵌套定义", "B": "不可以嵌套调用", "C": "不可以递归调用", "D": "以上都不对", "answer": "D"}
+{"id": 4, "question": "以下关于Python全局变量和局部变量的描述中，不正确的是？", "A": "局部变量在函数内部创建和使用，函数退出后变量被释放", "B": "全局变量一般指定义在函数之外的变量", "C": "使用global保留字声明后，变量可以作为全局变量使用", "D": "当函数退出时，局部变量依然存在，下次函数调用可以继续使用", "answer": "D"}

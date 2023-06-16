@@ -1,0 +1,153 @@
+{"id": 0, "question": "在所有两位数(10－99)中任取一两位数, 则此数能被2或3整除的概率为?", "A": "6/5", "B": "2/3", "C": "83/100", "D": "均不对", "answer": ""}
+{"id": 1, "question": "对事件A,B,下列正确的命题是?", "A": "如A,B互斥, 则\\overline{A}, \\overline{B}也互斥", "B": "如A,B相容, 则\\overline{A}, \\overline{B} 也相容", "C": "如A,B互斥, 且P(A)>0,P(B)>0,则A,B独立", "D": "如A,B独立, 则\\overline{A}, \\overline{B}也独立", "answer": ""}
+{"id": 2, "question": "掷二枚骰子, 事件A为出现的点数之和等于3的概率为?", "A": "1/11", "B": "1/18", "C": "1/6", "D": "都不对", "answer": ""}
+{"id": 3, "question": "A, B两事件, 若 P(AUB)＝0.8, P(A)＝0.2, P(\\overline{B})＝0.4  则下列_____成立", "A": "P( \\overline{B})＝0.32", "B": "P(\\overline{\\mathrm{AB}})＝0.2", "C": "P(AB)＝0.4", "D": "P(\\overline{\\mathrm{AB}})＝0.48", "answer": ""}
+{"id": 4, "question": "随机地掷一骰子两次, 则两次出现的点数之和等于8的概率为?", "A": "3/36", "B": "4/36", "C": "5/36", "D": "2/36", "answer": ""}
+{"id": 5, "question": "甲, 乙两队比赛, 五战三胜制, 设甲队胜率为0.6, 则甲队取胜概率为?", "A": "0.6", "B": "C53*0.63*0.42", "C": "C530.63*0.42+C54*0.64*0.4", "D": "C53*0.63*0.42+C54*0.64*0.4+0.65", "answer": ""}
+{"id": 6, "question": "已知 P(A)=0.8    P(A-B)=0.2     P(B/\\overline{A})＝0.75,   则P(B)=?", "A": "0.4", "B": "0.5", "C": "0.6", "D": "0.75", "answer": ""}
+{"id": 7, "question": "某小区60％居民订晚报, 45％订青年报, 30％两报均订, 随机抽一户。则至少订一种报的概率为?", "A": "0.90", "B": "0.85", "C": "0.8", "D": "0.75", "answer": ""}
+{"id": 8, "question": "某果园生产红富士苹果, 一级品率为0.6, 随机取10个, 恰有6个一级品之概率?", "A": "1", "B": "0.66", "C": "C 1060.660.44", "D": "(0.6)6(\\mathrm{\\mathrm{0.4}})^4", "answer": ""}
+{"id": 9, "question": "市场上某商品来自两个工厂, 它们市场占有率分别为60％和40％, 有两人各自买一件。 则买到的来自不同工厂之概率为?", "A": "0.5", "B": "0.24", "C": "0.48", "D": "0.3", "answer": ""}
+{"id": 10, "question": "一大楼有3层, 1层到2层有两部自动扶梯, 2层到3层有一部自动扶梯, 各扶梯正常工作的概率为 P, 互不影响, 则因自动扶梯不正常不能用它们从一楼到三楼的概率为?", "A": "(1-P)3", "B": "1-P3", "C": "1-P2(2-P)", "D": "(1-P)(1-2P)", "answer": ""}
+{"id": 11, "question": "某市居民电话普及率为80％, 电脑拥有率为30％, 有15%两样都没有, 如随机检查一户, 则既有电脑又有电话之概率为?", "A": "0.15", "B": "0.2", "C": "0.25", "D": "0.1", "answer": ""}
+{"id": 12, "question": "甲, 乙, 丙三人共用一打印机, 其使用率分别p, q, r, 三人打印独立, 则打印机空闲率为?", "A": "1-pqr", "B": "(1-p)(1-q)(1-r)", "C": "1-p-q-r", "D": "3-p-q-r", "answer": ""}
+{"id": 13, "question": "事件A,B相互独立,  P(A)=0.6,  P(  \\overline{B})＝0.3,   则 P(AB)=?", "A": "0.15", "B": "0.2", "C": "0.25", "D": "0.1", "answer": ""}
+{"id": 14, "question": "甲, 乙各自射击一目标, 命中率分别为0.6和0.5, 已知目标被击中一抢, 则此抢为甲命中之概率?", "A": "0.6", "B": "0.3", "C": "0.5", "D": "0.55", "answer": ""}
+{"id": 15, "question": "下列命题中, 真命题为?", "A": "若 P(A)=0 , 则 A为不可能事件", "B": "若A,B互不相容, 则P(\\overline{A}\\cup\\overline{B})＝1", "C": "若 P(A)=1, 则A为必然事件", "D": "若A,B互不相容, 则 P(A)=1-P(B)", "answer": ""}
+{"id": 16, "question": "甲, 乙同时向某目标各射击一次, 命中率为1/3和1/2。已知目标被击中, 则它由甲命中的概率?", "A": "1/3", "B": "2/5", "C": "1/2", "D": "2/3", "answer": ""}
+{"id": 17, "question": "事件A,B对立时,  P(A\\cup\\ B)＝?", "A": "1-P(A)", "B": "1", "C": "0", "D": "P(\\overline{A)}P(\\overline{B)}", "answer": ""}
+{"id": 18, "question": "A,B满足P(A)+P(B)>1, 则A,B一定?", "A": "不独立", "B": "独立", "C": "不相容", "D": "相容", "answer": ""}
+{"id": 19, "question": "若_____, 则P(\\overline{A\\cup\\ B)}＝〔1-P(A)〕〔1-P(B)〕", "A": "A,B互斥", "B": "A>B", "C": "A, B互斥", "D": "A,B独立", "answer": ""}
+{"id": 20, "question": "A,B为两随机事件, 则 \\mathrm{AB}\\cup A\\overline{B}＝?", "A": "\\Phi", "B": "\\Omega", "C": "A", "D": "A\\cup\\ B", "answer": ""}
+{"id": 21, "question": "如_____则 P(\\overline{A\\cup\\ B})＝〔1-P(A)〕〔1-P(B)〕", "A": "A,B互斥", "B": "A\\supsetB", "C": "\\overline{A}, B互斥", "D": "A,B独立", "answer": ""}
+{"id": 22, "question": "6本中文书, 4本外文书放在书架上。则4本外文书放在一起的概率?", "A": "\\frac{\\mathrm{4!6!}}{\\mathrm{10!}}", "B": "7/10", "C": "\\frac{\\mathrm{4!7!}}{\\mathrm{10!}}", "D": "4/10", "answer": ""}
+{"id": 23, "question": "A,B的概率均大于零, 且A,B对立, 则下列不成立的为?", "A": "A,B互不相容", "B": "A,B独立", "C": "A,B不独立", "D": "\\overline{A}, B互不相容", "answer": ""}
+{"id": 24, "question": "设 P(A)＝a,  P(B)＝b,  P(A+B)＝C, 则P(A\\overline{B})为?", "A": "a－b", "B": "c－b", "C": "a(1－b)", "D": "b－a", "answer": ""}
+{"id": 25, "question": "某人射击中靶概率为3/4,如果直到命中为止, 则射击次数为3的概率为?", "A": "(\\frac{3}{4})^3", "B": "(\\frac{3}{4})^2.\\frac{1}{4}", "C": "(\\frac{1}{4})^2.\\frac{3}{4}", "D": "(\\frac{1}{4})^3", "answer": ""}
+{"id": 26, "question": "10个球中3个红, 7个绿, 随机分给10个小朋友, 每人一球。则最后三个分到球的小朋友中恰有一个得到红球的概率为?", "A": "C_3^1(\\frac{3}{\\mathrm{10}})", "B": "(\\frac{3}{\\mathrm{10}})(\\frac{7}{\\mathrm{10}})^2", "C": "C_3^1(\\frac{3}{\\mathrm{10}})(\\frac{7}{\\mathrm{10}})^2", "D": "\\frac{C_3^1C_7^2}{C_{\\mathrm{10}}^3}", "answer": ""}
+{"id": 27, "question": "下列等式中正确的是?", "A": "A\\cup\\ B＝AB∪B", "B": "\\overline{A}B＝A∪B", "C": "(\\mathrm{\\mathrm{AB}})\\overline{B})＝A", "D": "\\mathrm{AB}\\supset A\\cup\\ B", "answer": ""}
+{"id": 28, "question": "设甲, 乙两人进行象棋比赛, 考虑事件A＝｛甲胜乙负｝, 则\\overline{A}为?", "A": "｛甲负乙胜｝", "B": "｛甲乙平局｝", "C": "｛甲负｝", "D": "｛甲负或平局｝", "answer": ""}
+{"id": 29, "question": "甲, 乙两人射击, A,B分别表示甲, 乙射中目标, 则\\overline{\\mathrm{AB}}表示?", "A": "两人都没射中", "B": "两人没有都射中", "C": "两人都射中", "D": "都不对", "answer": ""}
+{"id": 30, "question": "A,B表示事件, 则_____不成立", "A": "A\\cup\\ B＝AB∪B", "B": "\\overline{A}B＝A∪B", "C": "A－B＝AB", "D": "(\\mathrm{\\mathrm{AB}})\\cap)A\\overline{B})＝φ", "answer": ""}
+{"id": 31, "question": "事件A－B又可表示为?", "A": "\\overline{A}B", "B": "A\\overline{B}", "C": "AB", "D": "\\mathrm{AB}－AB", "answer": ""}
+{"id": 32, "question": "以A表示事件“甲种产品畅销, 乙种产品滞销”, 则其对应事件\\overline{A}为?", "A": "甲种产品滞销, 乙种产品畅销", "B": "甲, 乙两种产品均畅销", "C": "甲种产品滞销", "D": "甲种产品滞销或乙种产品畅销", "answer": ""}
+{"id": 33, "question": "设有10个零件, 其中2个是次品, 现随机抽取2个, 恰有一个是正品的概率为?", "A": "8/45", "B": "16/45", "C": "8/15", "D": "8/30", "answer": ""}
+{"id": 34, "question": "已知事件A,B满足A\\supset\\ B, 则P(A－B)≠?", "A": "P(A\\overline{B})", "B": "P(A)－P(B)", "C": "1－P(AB)", "D": "P(A)－P(AB)", "answer": ""}
+{"id": 35, "question": "A,B为事件, \\overline{A\\cup\\ B}＝?", "A": "AB", "B": "\\overline{A}\\overline{B}", "C": "A\\overline{B}", "D": "\\overline{A}\\cup\\overline{B}", "answer": ""}
+{"id": 36, "question": "当\\overline{A}与B互不相容时, 则P(\\overline{A\\cup\\ B})＝?", "A": "1－P(A)", "B": "1－P(A)－P(B)", "C": "0", "D": "P(\\overline{A})P(\\overline{B})", "answer": ""}
+{"id": 37, "question": "从一副52张的扑克牌中任意取5张, 其中没有k字牌的概率为?", "A": "48/52", "B": "\\frac{C_{\\mathrm{48}}^5}{C_{\\mathrm{52}}^5}", "C": "\\frac{C_{\\mathrm{48}}^5}{\\mathrm{52}}", "D": "\\frac{\\mathrm{4}\\mathrm{8}^5}{\\mathrm{5}\\mathrm{2}^5}", "answer": ""}
+{"id": 38, "question": "6本中文书和4本外文书任意往书架上摆放, 则4本外文书放在一起的概率为?", "A": "4!6!/10!", "B": "7/10", "C": "4!7!/10!", "D": "4/10", "answer": ""}
+{"id": 39, "question": "某小组共9人, 分得一张观看亚运会的入场券, 组长将一张写有“得票”字样和8张写有“不得票”字样的纸签混合后让大家依次各抽一张, 以决定谁得入场卷, 则?", "A": "第一个获“得票”的概率最大", "B": "第五个抽签者获“得票”的概率最大", "C": "每个人获“得票”的概率相等", "D": "最后抽签者获“得票”的概率最小", "answer": ""}
+{"id": 40, "question": "若二事件A和B同时出现的概率P(AB)＝0, 则?", "A": "A和B不相容(相斥)", "B": "A,B是不可能事件", "C": "A,B未必是不可能事件", "D": "P(A)＝0或P(B)＝0", "answer": ""}
+{"id": 41, "question": "对于任意二事件A和B, 有P(A-B)＝?", "A": "P(A)－P(B)", "B": "P(A)－P(B)＋P(AB)", "C": "P(A)－P(AB)", "D": "P(A)＋P(B)＋P(B)－P(AB)", "answer": ""}
+{"id": 42, "question": "设A,B为两随机事件, 且B\\subset\\ A, 则下列式子正确的是?", "A": "P(A\\cup\\ B)＝P(A)", "B": "P(AB)＝P(A)", "C": "P(B|A)＝P(B)", "D": "P(B－A)＝P(B)－P(A)", "answer": ""}
+{"id": 43, "question": "设A和B是任意两个概率不为零的不相容事件, 则下列结论中肯定正确的是?", "A": "\\overline{A}与B不相容", "B": "\\overline{A}与B相容", "C": "P(AB)＝P(A)P(B)", "D": "P(A－B)＝P(A)", "answer": ""}
+{"id": 44, "question": "设当事件A与B同时发生时, 事件C必发生, 则?", "A": "P(C)\\le\\ P(A)＋P(B)－1", "B": "P(C)\\geq\\ P(A)＋P(B)－1", "C": "P(C)＝P(AB)", "D": "P(C)＝P(A∪B)", "answer": ""}
+{"id": 45, "question": "设 0<P(A)<1, 0<P(B)<1, P(\\left.\\ A\\right|B)＋P(AB)＝1, 则?", "A": "事件A和B互斥", "B": "事件A和B对立", "C": "事件A和B不独立", "D": "事件A和B相互独立", "answer": ""}
+{"id": 46, "question": "关于事件的独立性, 下列结论正确的有?", "A": "若P(A1A2.....An)＝P(A1)P(A2).....P(An)则A1A2...., An相互独立", "B": "A,B相互独立, 则\\overline{A}, B也相互独立", "C": "A,B相互独立, 则P(A+B)＝P(A)＋P(B)", "D": "都不对", "answer": ""}
+{"id": 47, "question": "事件A,B若满足P(A)＋P(B)>1, 则A与B一定?", "A": "不相互独立", "B": "相互独立", "C": "互不相容", "D": "不互斥", "answer": ""}
+{"id": 48, "question": "设电灯泡使用寿命在2000h以上的概率为0.15, 如果要求3个灯泡在使用2000h以后只有一个不坏的概率, 则只需用_____即可算出", "A": "全概率公式", "B": "古典概型计算公式", "C": "贝叶斯公式", "D": "贝努里公式", "answer": ""}
+{"id": 49, "question": "6本中文书和4本外文书, 任意往书架摆放, 则4本外文书放在一起的概率是?", "A": "\\frac{4!6!}{\\mathrm{10}!}", "B": "\\frac{7}{\\mathrm{10}}", "C": "\\frac{4!7!}{\\mathrm{10}!}", "D": "\\frac{4}{\\mathrm{10}}", "answer": ""}
+{"id": 50, "question": "某人打靶的命中率为0.8, 现独立地射击5次, 那么, 5次中有2次命中的概率为?", "A": "\\mathrm{0.}\\mathrm{8}^2\\times\\mathrm{\\mathrm{0.}}2^3", "B": "\\mathrm{0.}\\mathrm{8}^2", "C": "\\frac{2}{5}\\times\\mathrm{\\mathrm{0.}}8^2", "D": "C_5^2\\mathrm{\\mathrm{0.}}8^2\\times\\mathrm{\\mathrm{0.}}2^3", "answer": ""}
+{"id": 51, "question": "设盒中有10个木质球, 6个玻璃球, 玻璃球有两个为红色, 4个为蓝色；木质球有3个为红色, 7个为蓝色, 现从盒中任取一球, 用A表示“取到蓝色球”；B表示“取到玻璃球”。则P(B\\A)＝?", "A": "6/10", "B": "6/16", "C": "4/7", "D": "4/11", "answer": ""}
+{"id": 52, "question": "设A,B是两事件, 则下列等式中_____是不正确的", "A": "P(AB)＝P(A)P(B), A,B相互独立", "B": "P(\\mathrm{\\mathrm{AB}})＝)(B)P(AB), P(B)≠0", "C": "P(AB)＝P(A)P(B), A,B互不相容", "D": "P(\\mathrm{\\mathrm{AB}})＝)(A)P(BA), P(A)≠0", "answer": ""}
+{"id": 53, "question": "A,B为两事件, 则\\mathrm{AB}\\cup A\\overline{B}＝?", "A": "\\Phi(空集)", "B": "\\Omega(全集)", "C": "A", "D": "A\\cup\\ B", "answer": ""}
+{"id": 54, "question": "以A表示事件“甲种产品畅销, 乙种产品滞销”, 则其对立事件A为?", "A": "“甲种产品滞销, 乙种产品畅销”；", "B": "“ 甲, 乙两种产品均畅销”；", "C": "“甲种产品滞销”；", "D": "“甲种产品滞销或乙种产品畅销”", "answer": ""}
+{"id": 55, "question": "设A,B 为两事件, 0<P(A)<1,且P(\\overline{B}\\left|A\\right.)=1, 则?", "A": "A与B互不相容", "B": "P(AB)=0", "C": "\\overline{B}\\subset\\ A", "D": "P(B)=1", "answer": ""}
+{"id": 56, "question": "设A,B两事件, 0<P(A)<1, 则下面结论中, 错误的结论是?", "A": "P(A\\cup\\ B)=P(A)+P(B)-P(AB)", "B": "P(B)=P(AB)+(\\overline{A}B)", "C": "P(A\\cup\\ B)=P(A)", "D": "P(A\\cup\\ B)=P(A)+P(\\overline{A}B)", "answer": ""}
+{"id": 57, "question": "A,B两事件, 若P(A\\cup\\ B)=0.8, P(A)=0.2,P(\\overline{B})=0.4,则?", "A": "P(\\overline{A}\\overline{B})=0.32", "B": "P(\\overline{A}\\overline{B})=0.2", "C": "P(A-B)=0.4", "D": "P(\\overline{B}A)=0.48", "answer": ""}
+{"id": 58, "question": "设事件A,B互不相容, 则?", "A": "P(\\overline{A}\\cup\\overline{B})=1", "B": "P(\\overline{A}\\cap\\overline{B})=1", "C": "P(AB)=P(A)P(B)", "D": "P(A)=1-P(B)", "answer": ""}
+{"id": 59, "question": "6本中文书和4本外文书, 任意往书架上摆放, 则4本外文书放在一起的概率是?", "A": "\\frac{4!\\times6!}{10!}", "B": "7/10", "C": "\\frac{4!\\times7!}{10!}", "D": "4/10", "answer": ""}
+{"id": 60, "question": "从一副52张的扑克牌中任意抽5张, 其中没有K字牌的概率为?", "A": "\\frac{48}{52}", "B": "\\frac{C_{48}^5}{C_{52}^5}", "C": "\\frac{C_{48}^5}{52}", "D": "\\frac{48^5}{52^5}", "answer": ""}
+{"id": 61, "question": "随意地投掷一均匀的骰子两次, 则这两次出现的点数之和为8的概率为?", "A": "3/36", "B": "4/36", "C": "5/36", "D": "2/36", "answer": ""}
+{"id": 62, "question": "设盒中有10个木质球, 6个玻璃球, 玻璃球有2个为红色, 4个为蓝色；木质球有3 个为红色, 7个为蓝色, 现从盒中任取一球, 用A表示“取到蓝色球”；B表示“取到玻璃球“。则P(B\\left|A)=\\right.", "A": "6/10", "B": "6/16", "C": "4/7", "D": "4/11", "answer": ""}
+{"id": 63, "question": "某小组共9人, 分得一张观看亚运会的入场券, 组长将一张写有“得票”字样和8张写有“不得票”字样的纸签混合后让大家依次各抽一张, 以决定谁得入场券, 则?", "A": "第1个抽签者得“得票”的概率最大", "B": "第5个抽签者“得票”的概率最大", "C": "每个抽签者得“得票”的概率相等", "D": "最后抽签者得“得票”的概率最小", "answer": ""}
+{"id": 64, "question": "将10个球依次从1至10编号后置入袋中, 任取两球, 二者号码之和记为X, 则P(X\\le18)=?", "A": "44/45", "B": "43/45", "C": "72/100", "D": "64/100", "answer": ""}
+{"id": 65, "question": "某人打靶的命中率为0.8, 现独立地射击5次, 那么, 5次中有2次命中的概率为?", "A": "0.8^2\\times0.2^3", "B": "0.8^2", "C": "\\frac{2}{5}\\times0.8^2", "D": "C_5^2\\times0.8^2\\times0.2^3", "answer": ""}
+{"id": 66, "question": "设A_1,A_2,A_3为任意的三事件, 以下结论中, 正确的是?", "A": "若A_1,A_2,A_3相互独立, 则A_1,A_2,A_3两两独立", "B": "若A_1,A_2,A_3两两独立, 则A_1,A_2,A_3相互 独立", "C": "若P(A_,A_2,A_3)=P(A_1)P(A_2)P(A_3),则A_1,A_2,A_3相互独立", "D": "若A_1与A2独立, A_2与A3独立, 则A_1与A3独立", "answer": ""}
+{"id": 67, "question": "已知A,B,C两两独立, P(A)=P(B)=P(C)=1/2, P(ABC)=1/5,则P(AB\\overline{C})等于?", "A": "1/40", "B": "1/20", "C": "1/10", "D": "1/4", "answer": ""}
+{"id": 68, "question": "已知事件A与B互不相容, P(A)>0, P(B)>0,则?", "A": "P(A\\cup\\ B)=1", "B": "P(AB)=P(A)P(B)", "C": "P(AB)=0", "D": "P(AB)>0", "answer": ""}
+{"id": 69, "question": "若事件B,A满足B-A=B,则一定有?", "A": "A=\\varphi", "B": "AB=\\varphi", "C": "A\\overline{B}=\\varphi", "D": "B=\\overline{A}", "answer": ""}
+{"id": 70, "question": "某工人生产了三个零件, 以A_i表示“他生产的第i个零件是合格品”(I=1,2,3),以下事件的表示式中错误的是?", "A": "A_1A_2A_3表示“没有一个零件是废品”", "B": "\\overline{A_1}\\cup\\overline{A_2}\\cup\\overline{A_3}表示“至少有一个零件是废品”", "C": "\\overline{A_1}A_2A_3\\cup\\ A_1\\overline{A_2}A_3\\cup\\ A_1A_2{\\overline{A}}_3表示“仅有一个零件是废品”", "D": "{\\overline{A}}_1{\\overline{A}}_2A_3\\cup{\\overline{A}}_1A_2{\\overline{A}}_3\\cup\\ A_1{\\overline{A}}_2{\\overline{A}}_3表示“至少有两个零件是废品", "answer": ""}
+{"id": 71, "question": "甲, 乙, 丙三人各自独立地向一目标射击一次, 三人的命中率分别是0.5, 0.6, 0.7, 则目标被击中的概率为?", "A": "0.94", "B": "0.92", "C": "0.95", "D": "0.90", "answer": ""}
+{"id": 72, "question": "A,B为两事件, 则A-B不等于?", "A": "\\overline{A}B", "B": "A\\overline{B}", "C": "A-AB", "D": "(A\\cup\\ B)-B", "answer": ""}
+{"id": 73, "question": "已知事件A与B相互独立, P(\\overline{A})=0.5,P(\\overline{B})=0.6, 则P(A\\cup\\ B)等于?", "A": "0.9", "B": "0.7", "C": "0.1", "D": "0.2", "answer": ""}
+{"id": 74, "question": "甲, 乙, 丙三人独立地译一密码, 他们每人译出此密码都是0.25, 则密码被译出的概率为?", "A": "1/4", "B": "1/64", "C": "37/64", "D": "63/64", "answer": ""}
+{"id": 75, "question": "设A,B为两事件, A\\cup\\ B,则不能推出结论?", "A": "P(AB)=P(A)", "B": "P(A\\cup\\ B)=P(B)", "C": "P(A\\overline{B})=P(A)-P(B)", "D": "P(\\overline{A}B)=P(B)-P(A)", "answer": ""}
+{"id": 76, "question": "P(A)=0,B为任一事件, 则?", "A": "A=\\Phi", "B": "A\\subset\\ B", "C": "A与B相互独立", "D": "A与B互不相容", "answer": ""}
+{"id": 77, "question": "A,B为任意两事件, 若A,B之积为不可能事件, 则称?", "A": "A与B相互独立", "B": "A与B互不相容", "C": "A与B互为对立事件", "D": "A与B为样本空间\\Omega的一个划分", "answer": ""}
+{"id": 78, "question": "设A,B两事件互不相容, 0<P(A)=p<1,0<P(B)=q<1,则推不出结论?", "A": "P(A\\left|B)=0\\right.", "B": "P(\\overline{A}\\overline{B})=0", "C": "P(A\\overline{B})=P(A)", "D": "P(\\overline{A}\\cup\\overline{B})=1", "answer": ""}
+{"id": 79, "question": "设随机事件A,B 及其和事件A\\cup\\ B概率分是0.4, 0.3和0.6, 若\\overline{B}表示B的对立事件, 那么积事件A\\overline{B}的概率P(A\\overline{B})=?", "A": "0.2", "B": "0.3", "C": "0.4", "D": "0.6", "answer": ""}
+{"id": 80, "question": "如果事件A和B同时出现的概率为P(AB)=0,则下列结论成立的是?", "A": "A与B互斥", "B": "AB为不可能事件", "C": "P(A)=0或 P(B)=0", "D": "AB 末必不可能", "answer": ""}
+{"id": 81, "question": "以A表示事件“甲种产品畅销, 乙种产品滞销”, 则其对立事件\\overline{A}?", "A": "甲种产品滞销, 乙种产品畅销", "B": "甲乙两种产品均畅销", "C": "甲种产品滞销", "D": "甲种产品滞销或乙种产品畅销", "answer": ""}
+{"id": 82, "question": "设当事件A与B同时发生时, 事件C必发生, 则?", "A": "P(C)\\le\\ P(A)+P(B)", "B": "P(C)\\geq\\ P(A)+P(B)-1", "C": "P(C)=P(AB)", "D": "P(C)=P(A\\cup\\ B)", "answer": ""}
+{"id": 83, "question": "设A,B为两事件, 则P(A-B)等于", "A": "P(A)-P(B)", "B": "P(A)-P(B)+P(AB)", "C": "P(A)-P(AB)", "D": "P(A)+P(B)-P(AB)", "answer": ""}
+{"id": 84, "question": "假设事件A 和B满足 P(B|A)=1,则?", "A": "A是必然事件", "B": "P(\\left.\\ B\\right|\\overline{A})=0", "C": "A\\supset\\ B", "D": "A\\subset\\ B", "answer": ""}
+{"id": 85, "question": "设A,B为任意事件, 下列命题正确的是?", "A": "若A,B互不相容, 则\\overline{A},\\overline{B}也互不相容", "B": "若A,B 相互独立, 则\\overline{A},\\overline{B}也相互独立", "C": "若A,B相容, 则\\overline{A,}\\overline{B}也相容", "D": "\\overline{AB}=\\overline{AB}", "answer": ""}
+{"id": 86, "question": "每次试验成功率为P(0<,P<1),进行重复实验, 直到第十次试验才取得4次成功的概率为?", "A": "C_{10}^4p^4(1-p)^6", "B": "C_9^3p^4(1-p)^6", "C": "C_9^4p^4(1-p)^5", "D": "C_9^3p^3(1-p)^6", "answer": ""}
+{"id": 87, "question": "关于独立性, 下列说法错误的是?", "A": "若A_{1,}A_{2,}\\cdots,A_n相互独立, 则其中的任意多个事件A_{i1},A_{i2},\\cdots,A_{ik},(k\\le\\ n)仍然相互独立", "B": "若A_1,A_2,\\cdots,A_n相互独立, 则它们之中的任意多个事件换成其对立事件后仍相互独立", "C": "若A与B相互独立, B与C相互独立, C与A相互独立, 则 A,B,C相互独立", "D": "若A,B,C相互独立, 则A+B与C相互独立", "answer": ""}
+{"id": 88, "question": "设随机事件A与B互不相容, 则?", "A": "A与B独立", "B": "A与B对立", "C": "P(A\\cup\\ B)=1", "D": "P(AB)=0", "answer": ""}
+{"id": 89, "question": "重复进行一项试验, 事件A表示“第一次失败且第二次成功”, 则事件\\overline{A}为?", "A": "两次均失败", "B": "第一次成功", "C": "第一次成功且第二次失败", "D": "第一次成功或第二次失败", "answer": ""}
+{"id": 90, "question": "在最简单的全概率公式P(B)=P(A)(B\\left|A)+P(\\overline{A})P(B\\left|\\overline{A})\\right.\\right.中, 要求事件A与B必须满足的条件是?", "A": "0<P(A)<1,B为任意随机事件", "B": "A与B为互不相容事件", "C": "A与B为对立事件", "D": "A与B为相互独立事件", "answer": ""}
+{"id": 91, "question": "事件A与B相互独立的充要条件为?", "A": "A+B=U", "B": "P(AB)=P(A)P(B)", "C": "AB=\\varphi", "D": "P(A+B)=P(A)+P(B)", "answer": ""}
+{"id": 92, "question": "对于任意两个事件A与B,有P(A-B)为?", "A": "P(A)-P(B)", "B": "P(A)-P(B)+P(AB)", "C": "P(A)-P(AB)", "D": "P(A)+P(\\overline{B})-P(A\\overline{B})", "answer": ""}
+{"id": 93, "question": "设A,B是两个随机事件,  0<P(A)<1, P(B)>0,P(B\\left|A)+P(\\overline{B}\\left|\\overline{A})=1,\\right.\\right.则一定有?", "A": "P(A\\left|B)=P(\\overline{A}\\left|B)\\right.\\right.", "B": "P(A\\left|B)\\neq\\ P(\\overline{A}\\left|B)\\right.\\right.", "C": "P(AB)=P(A)P(B)", "D": "P(AB)\\neq\\ P(A)P(B)", "answer": ""}
+{"id": 94, "question": "下列函数中可以为分布密度函数的是?", "A": "f(x)＝11+x2x>00其它", "B": "F(x)＝sinxx∈〔0,π〕0其它", "C": "f(x)＝e－(x－a)x>a0其它", "D": "f(x)＝x3－1<x<10其它", "answer": ""}
+{"id": 95, "question": "设P(x.y)为(x.y)的联合密度函数, 则 p\\left\\{(\\mathrm{x,y})\\in D\\right.｝等于_____。其中D由    y=2x  , x=1,   y=0所围", "A": "\\int_{0}^{2}{(\\int_{1}^{\\frac{y}{2}}{P(x.y)dx)dy}}", "B": "\\int_{0}^{\\frac{1}{2}}{(\\int_{\\frac{y}{2}}^{1}{P(x.y)dx)dy}}", "C": "\\int_{0}^{1}{(\\int_{0}^{\\frac{y}{2}}{p(x.y)dy)dx}}", "D": "\\int_{0}^{1}{(\\int_{0}^{2}{p(x.y)dy)dx}}", "answer": ""}
+{"id": 96, "question": "下列各函数, 无论a取何值, _____不可能为分布函数", "A": "p(x)=\\left\\{\\begin{matrix}-ax^2&\\left|x\\right|<1\\\\0&\\left|x\\right|\\geq1\\\\\\end{matrix}\\right.", "B": "p(x)=\\left\\{\\begin{matrix}asin{x}&\\left|x\\right|\\le\\frac{\\pi}{2}\\\\0&\\left|x\\right|>\\frac{\\pi}{2}\\\\\\end{matrix}\\right.", "C": "p(x)=e^{-\\left|x\\right|+a}", "D": "p(x)=\\left\\{\\begin{matrix}\\frac{a}{\\sqrt{1-x^2}}&\\left|x\\right|<1\\\\0&\\left|x\\right|\\geq1\\\\\\end{matrix}\\right.", "answer": ""}
+{"id": 97, "question": "掷骰子4个, 则出现一个‘6’的概率为?", "A": "4\\times\\frac{1}{6}", "B": "0.25", "C": "c_4^3.\\frac{1}{6}.(\\frac{5}{6})^3", "D": "\\frac{1}{6}.(\\frac{5}{6})^3", "answer": ""}
+{"id": 98, "question": "设随机变量X的密度函数为  P(x)=4x30≤x≤10其它则使p(x>a)＝p(x<a) 成立的常数a等于?", "A": "\\frac{1}{\\sqrt[4]{2}}", "B": "\\sqrt[4]{2}", "C": "\\frac{1}{2}", "D": "\\mathrm{1-}\\frac{1}{\\sqrt[4]{2}}", "answer": ""}
+{"id": 99, "question": "某型号收音机晶体管的寿命X(单位：h)的密度函数为p(x)＝0x≤10001000x2x>1000装有5个这种三极管的收音机在使用的前1500h内正好有2个需要更换的概率是?", "A": "1/3", "B": "40/243", "C": "8/243", "D": "2/3", "answer": ""}
+{"id": 100, "question": "如有下列四个函数, 哪个可以是一分布函数?", "A": "F(x)＝0x<-212－2≤x<02x≥0", "B": "F(x)=\\left\\{\\begin{matrix}0&&x<0\\\\\\mathrm{sinx}&&0\\le\\ x<\\pi\\\\1&&x\\geq\\pi\\\\\\end{matrix}\\right.", "C": "F(x)=\\left\\{\\begin{matrix}0&&x<0\\\\\\mathrm{sinx}&&0\\le\\ x<\\frac{\\pi}{2}\\\\1&&x\\geq\\frac{\\pi}{2}\\\\\\end{matrix}\\right.", "D": "F(x)=\\left\\{\\begin{matrix}0&&x<0\\\\x+\\frac{1}{3}&&0\\le\\ x<\\frac{1}{2}\\\\1&&x\\geq\\frac{1}{2}\\\\\\end{matrix}\\right.", "answer": ""}
+{"id": 101, "question": "如果c1+e－x(－∞, ∞)是x的分布函数, 则 p(x\\geq0)＝?", "A": "1", "B": "1/2", "C": "1/3", "D": "0", "answer": ""}
+{"id": 102, "question": "随机变量x之密度函数   P(x)=1-ax2x≥10其它      则 a＝?", "A": "3/2", "B": "1/2", "C": "1", "D": "－1", "answer": ""}
+{"id": 103, "question": "X服从\\lambda＝2的泊松分布。则?", "A": "p｛x＝0｝＝p｛x＝1｝", "B": "分布函数F(x)有F(0)＝e－2", "C": "p{x\\le1｝＝2e－2", "D": "p(x=0)＝\\mathrm{2}e－2", "answer": ""}
+{"id": 104, "question": "\\xi～N(0,1), η＝2ξ－1, 则 \\eta～?", "A": "N(0,1)", "B": "N(－1,4)", "C": "N(－1,3)", "D": "N(－1,1)", "answer": ""}
+{"id": 105, "question": "已知 EX=－1,  DX＝3, 则 E〔3(X2－2)〕＝?", "A": "9", "B": "6", "C": "30", "D": "36", "answer": ""}
+{"id": 106, "question": "X～N(0,4)F(x)为其分布函数, 则F‘(x)＝?", "A": "\\frac{1}{\\sqrt{2\\pi}}e－x28", "B": "\\frac{1}{2\\sqrt{2\\pi}}e－x28", "C": "\\frac{1}{\\sqrt\\pi}e－x24", "D": "\\frac{1}{\\sqrt[2]{2\\pi}}e－x24", "answer": ""}
+{"id": 107, "question": "当X服从参数为n, p的二项分布时, P(X＝k)＝?", "A": "p^kqn－k", "B": "C_n^kp^kqn－k", "C": "CmkCN－mn－kCNn", "D": "\\mathrm{p}qn－k", "answer": ""}
+{"id": 108, "question": "一电话交换台每分钟接到的呼唤次数X服从\\lambda＝4的普阿松分布, 那么每分钟接到的呼唤次数大于20的概率是?", "A": "\\frac{4^{\\mathrm{20}}}{\\mathrm{20}}e－4", "B": "k＝0∞4kk!e－4", "C": "k＝21∞4k20!e－4", "D": "k＝21∞4kk!e－4", "answer": ""}
+{"id": 109, "question": "对于随机变量X, 函数F(x)＝P(X≤x)称为X的?", "A": "概率分布", "B": "概率", "C": "概率密度", "D": "分布函数", "answer": ""}
+{"id": 110, "question": "X为连续型随机变量, p(x)为其概率密度, 则?", "A": "p(x)＝F(x)", "B": "p(x)\\le1", "C": "P(X＝x)＝p(x)", "D": "p(x)\\geq0", "answer": ""}
+{"id": 111, "question": "设F(x)＝P(X≤x)是连续型随机变量X的分布函数, 则下列结论中不正确的是?", "A": "F(x)不是不减函数", "B": "F(x)是不减函数", "C": "F(x)是右连续", "D": "F(－∞)＝0, F(＋∞)＝1", "answer": ""}
+{"id": 112, "question": "设F(x)是随机变量X的分布函数, 则对_____随机变量X, 有P{x_1<X<x_2}=F(x&2&)-F(x1)", "A": "任意", "B": "连续型", "C": "离散型", "D": "个别离散型", "answer": ""}
+{"id": 113, "question": "随机变量\\xi的密度函数为p(x)＝2x, x∈(0,A)；0, 其它, 则常数A＝?", "A": "1/4", "B": "1/2", "C": "1", "D": "2", "answer": ""}
+{"id": 114, "question": "设随机变量\\xi的密度函数为p(x)＝cx4, x∈〔0, 1〕0, 其它  则常数c＝?", "A": "1/5", "B": "1/4", "C": "4", "D": "5", "answer": ""}
+{"id": 115, "question": "\\phi(x)＝1b－a, a≤x≤b；0, 其它  是_____分布的密度函数", "A": "指数", "B": "二项", "C": "均匀", "D": "泊松", "answer": ""}
+{"id": 116, "question": "函数\\phi(x)＝1θe－xθ, x>0,δ.>0;0,其它  是_____的概率密度", "A": "指数分布", "B": "正态分布", "C": "均匀分布", "D": "泊松分布", "answer": ""}
+{"id": 117, "question": "X服从参数\\lambda＝19的指数分布, 则P｛3<X<9｝＝?", "A": "F(\\frac{9}{9})－F(39)", "B": "\\frac{1}{9}(\\frac{1}{\\sqrt[3]{e}}－1e)", "C": "\\frac{1}{\\sqrt[3]{e}}－1e", "D": "39e－x9dx", "answer": ""}
+{"id": 118, "question": "X服从正态分布N(\\mu, σ2), 其概率密度函数p(x)＝?", "A": "\\frac{1}{\\sqrt{2\\pi}}e－(x－μ)2σ2", "B": "\\frac{1}{\\sigma\\sqrt{2\\pi}}e－(x－μ)2(2σ)2", "C": "\\frac{1}{\\sigma\\sqrt{2\\pi}}e－&&(x－μ)22σ2", "D": "\\frac{\\mu}{\\sigma\\sqrt{2\\pi}}e－(x－μ)22σ2", "answer": ""}
+{"id": 119, "question": "若X～N(2,4), 则X的概率密度为?", "A": "p(x)＝12πe－(x－2)222, x∈(－∞, ＋∞)", "B": "p(x)＝122πe－(x－2)28, x∈(－∞, ＋∞)", "C": "p(x)＝122πe－(x－4)24, x∈(－∞, ＋∞)", "D": "p(x)＝12πe－(x－2)24, x∈(－∞, ＋∞)", "answer": ""}
+{"id": 120, "question": "设X～N(－3, 2), 则X的概率密度p(x)＝?", "A": "\\frac{1}{\\sqrt{2\\pi}}e－x22, －∞<x<+∞", "B": "\\frac{1}{2\\sqrt{2\\pi}}e－(x＋3)24, －∞<x<+∞", "C": "\\frac{1}{\\sqrt{2\\pi}}e－&&(x＋3)24, －∞<x<+∞", "D": "\\frac{1}{2\\sqrt\\pi}e^{-\\frac{(x+3)^2}{4}},-\\infty<x<+\\infty", "answer": ""}
+{"id": 121, "question": "设X～N(－3, 2), 则密度函数\\phi(x)＝?", "A": "\\frac{1}{\\sqrt{2\\pi}}e－x22(－∞<x<+∞)", "B": "\\frac{1}{2\\sqrt\\pi}e^{-\\frac{(x+3)^2}{4}}(-\\infty<x<\\infty)", "C": "\\frac{1}{\\sqrt{2\\pi}}e^{-\\frac{(x+3)^2}{4}}(-\\infty<x<\\infty)", "D": "\\frac{1}{2\\sqrt\\pi}e^{-\\frac{x^2}{4}}(-\\infty<x<\\infty)", "answer": ""}
+{"id": 122, "question": "设X～N(μ, σ2), 其密度函数为p(x)＝k⋅e－(x＋5)24, x∈(－∞, ＋∞), 则k＝?", "A": "\\frac{1}{2\\sqrt{2\\pi}}", "B": "\\frac{1}{\\sqrt{2\\pi}}", "C": "\\frac{1}{2\\sqrt\\pi}", "D": "\\frac{1}{4\\sqrt{2\\pi}}", "answer": ""}
+{"id": 123, "question": "每张奖券中尾奖的概率为1/10。某人购买了20张号码杂乱的奖券, 设中尾奖的张数为X, 则X服从_____分布", "A": "二项", "B": "泊松", "C": "指数", "D": "正态", "answer": ""}
+{"id": 124, "question": "设服从正态分布N(0,1)的随机变量\\xi其密度函数为\\phi(x), 则ϕ(0)＝?", "A": "0", "B": "\\frac{1}{\\sqrt{2\\pi}}", "C": "1", "D": "1/2", "answer": ""}
+{"id": 125, "question": "设X～N(0,1), \\varphi(x)是X的分布函数, 则\\varphi(0)＝?", "A": "1", "B": "0", "C": "\\frac{1}{\\sqrt{2\\pi}}", "D": "1/2", "answer": ""}
+{"id": 126, "question": "随机变量X服从正态分布N(0,4), 则P(X<1)＝?", "A": "\\int_{0}^{1}\\frac{1}{2\\sqrt{2\\pi}}e－x28dx", "B": "\\int_{0}^{1}\\frac{1}{4}e－x24dx", "C": "\\frac{1}{\\sqrt{2\\pi}}e－12", "D": "－∞1212πe－x22dx", "answer": ""}
+{"id": 127, "question": "一电话交换台每分钟接到呼唤次数X服从\\lambda＝3的普阿松分布, 那么每分钟接到呼唤次数X大于10的概率是?", "A": "\\frac{3^{\\mathrm{10}}}{\\mathrm{10}!}e－3", "B": "k＝11∞3kk!e－3", "C": "k＝10∞3kk!e－3", "D": "都不对", "answer": ""}
+{"id": 128, "question": "X服从参数\\lambda＝2的普阿松分布, 则?", "A": "X只取整数值", "B": "P(X＝0)＝e－2", "C": "P(X=0)＝P(X=1)", "D": "P(X\\le1)＝2e－2", "answer": ""}
+{"id": 129, "question": "设X取值1,2,3,4,5,且当k＝1,2,3,4时, P(X＝k)＝12k, 而P(X＝5)＝124, 则?", "A": "X是离散型微机变量", "B": "X是连续型随机变量", "C": "P(x\\geq2)＝122", "D": "X服从普阿松分布", "answer": ""}
+{"id": 130, "question": "设连续型随机变量X的分布函数为F(x), 则有?", "A": "P(X>b)=1-F(b)", "B": "P(X=a)＝F(a)", "C": "－∞＋∞F(x)dx＝1", "D": "P(x＝b)＝F(b)", "answer": ""}
+{"id": 131, "question": "连续型随机变量X的分布函数为F(x), 则有?", "A": "P｛a≤X≤b｝＝F(b)－F(a)", "B": "P｛X＝b｝>0", "C": "P｛a<X<b}≠F(b)-F(a)", "D": "P｛x＝a｝>0", "answer": ""}
+{"id": 132, "question": "设打一次电话所用的时间X服从以\\lambda＝110为参数的指数分布, 那么等待超过10分钟的概率是?", "A": "1－e－1", "B": "e－1", "C": "1－e－2", "D": "都不对", "answer": ""}
+{"id": 133, "question": "设X～N(μ, σ2), 则不正确的是?", "A": "密度函数以x＝μ为对称轴的钟形曲线", "B": "\\sigma越大, 曲线越峭", "C": "\\sigma越小, 曲线越陡峭", "D": "F(\\mu)＝12", "answer": ""}
+{"id": 134, "question": "设X～N(3,22), 那么当P(X\\le\\ C)＝P(X>C)时, 则C为?", "A": "0", "B": "3", "C": "2", "D": "都不对", "answer": ""}
+{"id": 135, "question": "设X～N(1,2), p(x), F(x)分别为\\xi的密度函数和分布函数, 则_____不正确", "A": "p(x)关于y轴对称", "B": "p(x)关于直线x＝1对称", "C": "p(x)的最大值为\\frac{1}{2\\sqrt\\pi}", "D": "X－12～N(0,1)", "answer": ""}
+{"id": 136, "question": "设随机变量X的概率密度为p(x)＝12πe－x22, 则_____不对", "A": "P(X\\geq0)＝12", "B": "P(X<x)=P(X>-x)", "C": "P(\\left|X\\right|\\le1)<\\frac{2}{3}", "D": "P(\\left|X\\right|>3)<0.01", "answer": ""}
+{"id": 137, "question": "设F(x)＝P{X≤x｝是连续型随机变量X的分布函数, 则下列结论中不正确的是?", "A": "F(x)不是不减函数", "B": "F(x)是不减函数", "C": "F(x)是右连续的", "D": "F(－∞)＝0, F(＋∞)＝1", "answer": ""}
+{"id": 138, "question": "X服从参数\\lambda＝19的指数分布, 则P｛3<X<9｝＝?", "A": "F(\\frac{9}{9})－F(39)", "B": "\\frac{1}{9}｛13e－1e｝", "C": "\\frac{1}{\\sqrt[3]{e}}－1e", "D": "39e－x3dx", "answer": ""}
+{"id": 139, "question": "设连续型随机变量X的密度函数为P(x), 则当_____时, －∞∞xp(x)dx称其为随机变量X的数学期望", "A": "－∞∞xp(x)dx 收敛", "B": "P(x)为有界函数", "C": "limxp(x)＝0", "D": "－∞∞xp(x)dx 绝对收敛", "answer": ""}
+{"id": 140, "question": "设服从正态分布N(0,1)的随机变量\\xi, 其密度函数为\\phi(x), 则\\phi(0)等于?", "A": "0", "B": "\\frac{1}{\\sqrt{2\\pi}}", "C": "1", "D": "1/2", "answer": ""}
+{"id": 141, "question": "设X～N(－3,2), 则X的概率密度p(x)＝?", "A": "\\frac{1}{\\sqrt{2\\pi}}e－x22(－∞<x<+∞)", "B": "\\frac{1}{2\\sqrt{2\\pi}}e－(x－3)24(－∞<x<＋∞)", "C": "\\frac{1}{\\sqrt{2\\pi}}e－(x＋3)24(－∞<x<＋∞)", "D": "\\frac{1}{2\\sqrt\\pi}e－(x＋3)24(－∞<x<＋∞)", "answer": ""}
+{"id": 142, "question": "设X~N(\\mu,4^2),Y~N(\\mu,5^2)。记P_1=P{X\\le\\mu-4}, P_2={Y\\geq\\mu+5}, 则?", "A": "对任意实数\\mu, 都有P_1=P_2；", "B": "对任意实数\\mu, 都有P_1<P_2；", "C": "对任意实数\\mu, 都有P_1>P_2；", "D": "只对\\mu的个别值, 才有P_1=P_2", "answer": ""}
+{"id": 143, "question": "在下述函数中, 可以作为某个随机变量的分布函数的是?", "A": "F(x)=\\frac{1}{1+x^2}；", "B": "F(x)=\\frac{1}{\\pi}arctgx+\\frac{1}{2}；", "C": "F(x)=\\left\\{\\begin{matrix}\\frac{1}{2}(1-e^{-x})&x>0\\\\0&x\\le0\\\\\\end{matrix}\\right.；", "D": "F(x)=\\int_{-\\infty}^{x}{f(t)dt,}其中\\int_{-\\infty}^{+\\infty}{f(t)dt=1}", "answer": ""}
+{"id": 144, "question": "已知随机变量X服从二项分布, 且EX=2.4,DX=1.44,则二项分布的参数为?", "A": "n=4,p=0.6;", "B": "n=6,p=0.4;", "C": "n=8,p=0.3;", "D": "n=24,p=0.1.", "answer": ""}
+{"id": 145, "question": "设F(x)是随机变量X的分布函数, 则对_____随机变量X, 有P{x_1<X<x_2}=F(x_2)-F(x_1).", "A": "任意", "B": "连续型", "C": "离散型", "D": "个别离散型", "answer": ""}
+{"id": 146, "question": "设随机变量\\xi的密度函数 P(x)=cx4,x∈[0,1];0,其他。  则常数A=", "A": "1/5", "B": "1/4", "C": "4", "D": "5", "answer": ""}
+{"id": 147, "question": "设随机变量\\xi的密度为 p(x)=2x,x∈[0,A];0,其他。  则常数A=", "A": "1/5", "B": "1/2", "C": "1", "D": "2", "answer": ""}
+{"id": 148, "question": "设随机变量\\xi的密度函数 p(x)=Ax,0≤x≤2;0,其他。 则常数A=", "A": "2", "B": "1/2", "C": "1", "D": "3", "answer": ""}
+{"id": 149, "question": "当X服从参数为n,p的二项分布时, p{X=k}=", "A": "p^kq^{n-k}", "B": "C_n^kP^kq^{n-k}", "C": "\\frac{C_m^kC_{N-m}^{n-k}}{C_N^n}", "D": "pq^{n-k}", "answer": ""}
+{"id": 150, "question": "在n次独立重复试验中, 设P(A)=p,1-p=q,那么, 事件A发生k次的概率为", "A": "p^k", "B": "p^kq^{n-k}", "C": "C_\\eta^kp^kq^{n-k}", "D": "A_\\eta^kP^kq^{n-k}", "answer": ""}
+{"id": 151, "question": "设X~N (0,1),\\Phi(x)是X的分布函数, 则\\Phi(0)=", "A": "1", "B": "0", "C": "\\frac{1}{\\sqrt{2\\pi}}", "D": "1/2", "answer": ""}
+{"id": 152, "question": "\\xi~N(-1,\\sigma^2)且P{-3\\le\\xi\\le-1}=0.4, 则P{\\xi\\geq1}=", "A": "0.1", "B": "0.2", "C": "0.3", "D": "0.5", "answer": ""}
